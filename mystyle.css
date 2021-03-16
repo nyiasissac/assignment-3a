@@ -1,0 +1,42 @@
+body{
+ display: flex;
+ justify-content: center;
+ background: #bf8040;
+}
+
+#container{
+position: relative;
+top: 100px;
+width: 800px;
+}
+
+#content-box{
+  background: white;
+  padding: 15px;
+  margin-bottom: 15px;
+  width: 500px;
+justify-content: center;
+}
+
+ul{
+  position: relative;
+  list-style-type: none;
+  margin-bottom: 50px;
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+}
+
+a{
+text-decoration: none;
+background: #FFF;
+padding: 15px;
+}
+
+a:hover{
+background: #d2a679;
+}
+
+h1{
+  text-align: center;
+}
